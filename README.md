@@ -1,6 +1,6 @@
 # Asking Questions to Your Own Documents with Snowflake Cortex
 
-This is the code for the example provide in this blog entry: 
+This is the code for the example provide in this ![blog entry](https://carlos-carrero-marin.medium.com/asking-questions-to-your-own-documents-with-snowflake-cortex-56c67922bed8): 
 
 In order to setup this demo you need:
 

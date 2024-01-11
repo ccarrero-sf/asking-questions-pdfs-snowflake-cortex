@@ -2,3 +2,4 @@
 
 This is the code for the example provide in this blog entry: 
 
+![Flow](Fig1.png)

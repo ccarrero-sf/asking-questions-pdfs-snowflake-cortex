@@ -1,0 +1,9 @@
+{
+    "account": "ACCOUNT ID",
+    "user": "USERNAME",
+    "role": "ROLE NAME",
+    "password": "YOUR PASSWORD",
+    "warehouse": "YOUR WAREHOUSE",
+    "database": "YOUR DATABASE",
+    "schema": "YOUR SCHEMA"
+  }

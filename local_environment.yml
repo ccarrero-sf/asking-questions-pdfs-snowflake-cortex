@@ -1,9 +1,0 @@
-name: pdf_insight
-channels:
-  - https://repo.anaconda.com/pkgs/snowflake
-dependencies:
-  - python=3.8.*
-  - snowflake-snowpark-python
-  - streamlit=1.22.0
-  - langchain
-  - pypdf2
